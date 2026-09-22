@@ -93,10 +93,6 @@ Space Invaders on an MSPM0 MCU in C + Assembly. **20-state FSM**, interrupt-driv
 ### `> git log --stat`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=carlosdrojas&theme=dark&background=00000000&ring=BF5700&fire=BF5700&currStreakLabel=BF5700&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosdrojas&bg_color=00000000&color=ffffff&line=BF5700&point=ffffff&area=true&area_color=BF5700&hide_border=true" width="100%"/>
 </p>
 
