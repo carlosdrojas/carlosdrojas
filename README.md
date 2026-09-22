@@ -88,14 +88,6 @@ Space Invaders on an MSPM0 MCU in C + Assembly. **20-state FSM**, interrupt-driv
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,aws,docker,kubernetes,linux,bash,git,mysql,matlab&theme=dark" />
 </p>
 
----
-
-### `> git log --stat`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosdrojas&bg_color=00000000&color=ffffff&line=BF5700&point=ffffff&area=true&area_color=BF5700&hide_border=true" width="100%"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bf5700,50:1a0033,100:000000&height=120&section=footer" width="100%"/>
 </p>
